@@ -2,7 +2,7 @@
 
 int main() {
     int a, b;
-    printf("How are you doing?\n");
+    printf("Dammi due numeri ti diro' quale è maggiore\n");
     scanf_s("%d", &a);
     scanf_s("%d", &b);
     if (a > b) {
