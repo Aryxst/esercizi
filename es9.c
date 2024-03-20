@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// es i
 int main() {
     int grandezza, k, i;
     printf("Quanti valori vuoi inserire: ");
