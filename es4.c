@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+// es d
 int main() {
     int a, b, c;
 
