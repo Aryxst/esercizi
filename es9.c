@@ -14,7 +14,7 @@ int main() {
     printf("Quale valore k compreso tra 1 e 4 vuoi utilizzare: ");
     scanf("%d", &k);
     while (k < 1 || k > 4) {
-        printf("Il valore di k deve essere compreso tra 1 e 4. Inserisci nuovamente: ");
+        printf("Il valore di k deve essere compreso tra 1 e 4. Inserisci: ");
         scanf("%d", &k);
     }
     printf("Hai scelto il valore k = %d\n\n\n", k);
