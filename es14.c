@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//es n
 int main() {
 	// Inserisco un valore di base "val", che assegno al prossimo valore di fattoriale => "prod"
 	int i, val, prod;
