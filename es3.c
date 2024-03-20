@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// es c
 int main() {
     int a, b, c;
     printf("Inserisci tre numeri interi: ");
