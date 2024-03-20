@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+// es b
+// Moltiplica numeri da input con numeri casuali e stampali
 int main() {
     int a, b;
     printf("Dammi dei numeri\n");
