@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+// es g
 int main() {
 	int count, temp, max, min, media, sum;
 	printf("Iterazioni:");
