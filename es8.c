@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// es h
 int main() {
 	int tot,sum,i;
 	printf("Inserisci la quantita' di numeri da sommare:");
